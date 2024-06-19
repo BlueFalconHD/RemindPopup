@@ -21,6 +21,7 @@
 /* Begin PBXFileReference section */
 		4408676A2C236AC60094D54F /* AppSettingKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppSettingKey.swift; sourceTree = "<group>"; };
 		4408676E2C2373620094D54F /* DummyWindowContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DummyWindowContentView.swift; sourceTree = "<group>"; };
+		440867702C2377C40094D54F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		441A34372C1BA62100ECE317 /* RemindPopup.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RemindPopup.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		441A343A2C1BA62100ECE317 /* RemindPopupApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemindPopupApp.swift; sourceTree = "<group>"; };
 		441A34402C1BA62300ECE317 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -46,6 +47,7 @@
 		441A342E2C1BA62100ECE317 = {
 			isa = PBXGroup;
 			children = (
+				440867702C2377C40094D54F /* README.md */,
 				441A34392C1BA62100ECE317 /* RemindPopup */,
 				441A34382C1BA62100ECE317 /* Products */,
 			);
